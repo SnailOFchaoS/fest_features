@@ -1,0 +1,9 @@
+.weekPageWrapper{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+  justify-items: center;
+	width: 100%;
+	background-color: azure;
+	gap: 24px;
+}
